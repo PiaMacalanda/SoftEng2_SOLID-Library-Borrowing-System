@@ -7,8 +7,9 @@ The NEU Library offers a variety of resources, including books, theses, capstone
 To adhere to the **Dependency Inversion Principle (DIP)** and ensure flexibility for future changes (such as introducing audio books or e-journals), we need to refactor the program while maintaining SOLID principles. The goal is to create a robust system that can seamlessly accommodate new resource types in the future.
 
 ### UML Class Diagram
-
-<!-- Insert your UML diagram here -->
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/99d252c7-9f0f-41fa-8356-9b2059350e9f" height="500" />
+</p>
 
 ### Solution Description
 
@@ -33,7 +34,7 @@ javac TestProgram.java
 java TestProgram
 ```
 
-### File Sturcture
+### File Structure
 
 ```
 ├── TestProgram.java
