@@ -1,3 +1,6 @@
+package library.resources;
+import library.LibraryResource;
+
 public class Thesis implements LibraryResource {
     
     @Override

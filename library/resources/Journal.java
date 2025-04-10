@@ -1,3 +1,6 @@
+package library.resources;
+import library.LibraryResource;
+
 public class Journal implements LibraryResource {
 
     @Override

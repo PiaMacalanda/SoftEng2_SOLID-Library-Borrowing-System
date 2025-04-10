@@ -1,6 +1,9 @@
+package library;
+import library.resources.*;
+
 public class Library {
 
-    public static LibraryResource getResource(String resourceType) {
+    public static LibraryResource createResource(String resourceType) {
 
         switch (resourceType.toLowerCase()) {
 

@@ -1,3 +1,5 @@
+package library;
+
 public interface LibraryResource {
     
     boolean isAvailable(String title);
